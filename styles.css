@@ -1,0 +1,26 @@
+#header-homepage
+{
+    font-size: 50px;
+}
+
+.text, .text *
+{
+    text-align: center;
+    color: white;
+    padding: 0px;
+    font-size: 28px;
+}
+
+#homepage-img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+body
+{
+    background-color: rgb(17, 30, 36);    
+    font-family: 'Brush Script MT', cursive, sans-serif;
+}
+
