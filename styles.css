@@ -1,26 +1,46 @@
-#header-homepage
-{
-    font-size: 50px;
-}
-
-.text, .text *
-{
-    text-align: center;
-    color: white;
-    padding: 0px;
-    font-size: 28px;
-}
-
-#homepage-img
-{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 25%;
-}
 body
 {
     background-color: rgb(17, 30, 36);    
     font-family: 'Brush Script MT', cursive, sans-serif;
 }
 
+li
+{
+    padding: 3px;
+}
+ul ,ol
+{
+    padding: 5px;
+    font-size: 28px;    
+    list-style: none;
+}
+.text
+{
+    color: white;
+    text-align:  center;
+}
+
+.child-page-img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+}
+p
+{    
+    padding: 0px;
+    font-size: 35px;
+}
+h1
+{   
+    padding: 0px;
+    font-size: 40px;
+    font-weight: 800;
+}
+h2
+{     
+    padding: 0px;
+    font-size: 35px;
+}
